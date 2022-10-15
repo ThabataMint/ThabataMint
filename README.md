@@ -30,6 +30,8 @@ Sou apaixonada pelo meu processo de aprendizagem. E estudo a cada dia para ser m
 
 ### Never stop studying!
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"  width="100%">
+
 
 
 
@@ -46,6 +48,8 @@ Sou apaixonada pelo meu processo de aprendizagem. E estudo a cada dia para ser m
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThabataMint&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThabataMint&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
+
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"  width="100%">
   
   <div style="display: inline_block"><br>
     
@@ -68,16 +72,22 @@ Sou apaixonada pelo meu processo de aprendizagem. E estudo a cada dia para ser m
   <img align="center" alt="David-Wp" height="30" width="40" src="https://icongr.am/devicon/apple-original.svg?size=128&color=e7dfdf"/>
 </div>
   
-  ##
+
 
 
   
   
  <!--<a href="https://www.linkedin.com/in/th%C3%A1bata-oliveira-103b69228/"><img src="https://user-images.githubusercontent.com/58532023/171219303-8839f911-21bf-453f-b517-9dd6ef9a873c.png" alt="LinkedIn"/></a>-->
+ 
+   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"  width="100%">
   
   <h3 align="left">Connect with me:</h3>
 <p align="left" >
 <a href="https://www.linkedin.com/in/th%C3%A1bata-oliveira-103b69228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Manoj Gajare" height="30" width="40" /></a>
+
+
+
+
 
 
 
