@@ -3,7 +3,7 @@
 
 ### Hello there! Me chamo Thábata!
 
-🔭 Sou apaixonada pelo meu processo de aprendizagem. E luto a cada dia para ser melhor do que ontem, ciente de que meu maior obstáculo sou eu mesma, assim como a minha maior inspiração. 
+Sou apaixonada pelo meu processo de aprendizagem. E luto a cada dia para ser melhor do que ontem, ciente de que meu maior obstáculo sou eu mesma, assim como a minha maior inspiração. 
 
 
 
