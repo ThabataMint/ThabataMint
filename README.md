@@ -2,8 +2,15 @@
 
 
 ### Hello there! Me chamo Thábata!
+<div align="center">
+<img align="center" alt="David-Wp" height="300" width="300" src="https://user-images.githubusercontent.com/91090975/195998123-32985b43-0afc-4fce-8d87-747b8ae4d37e.gif">
 
-Sou apaixonada pelo meu processo de aprendizagem. E luto a cada dia para ser melhor do que ontem, ciente de que meu maior obstáculo sou eu mesma, assim como a minha maior inspiração. 
+</div>
+
+Sou apaixonada pelo meu processo de aprendizagem. E estudo a cada dia para ser melhor do que ontem, ciente de que meu maior obstáculo sou eu mesma, assim como a minha maior inspiração.
+
+### Never stop studying!
+
 
 
 
@@ -49,5 +56,7 @@ Sou apaixonada pelo meu processo de aprendizagem. E luto a cada dia para ser mel
  <a href="(https://www.linkedin.com/in/th%C3%A1bata-oliveira-103b69228/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+
   
   
