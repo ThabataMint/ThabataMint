@@ -7,7 +7,7 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"  width="100%">
 <!-- <h1 align="center">Hi 👋, I'm Thábata Oliveira</h1> -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=blue&amp;size=20&amp;lines=Hey!+It's+Thábata+Oliveira!;Programming+Student...;" style="width: 100%;">
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=blue&amp;size=20&amp;lines=Hey!+It's+Thábata+Oliveira!;Software+Developer...;" style="width: 100%;">
 
 
 
