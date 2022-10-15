@@ -11,7 +11,7 @@
 
 
 
-<h3 align="center">I am Aspiring Developer</h3>
+<h3 align="center">I am Developer</h3>
 <h3 align="center">Hello guys! My name is Thábata, I work with programming and I am madly in love with the learning process</h3>
 
 
@@ -65,7 +65,7 @@ Sou apaixonada pelo meu processo de aprendizagem. E estudo a cada dia para ser m
   <img align="center" alt="David-Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   <img align="center" alt="David-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="center" alt="David-Wp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
-   <img align="center" alt="David-Wp" height="30" width="40" src="https://icongr.am/devicon/apple-original.svg?size=128&color=e7dfdf"/>
+  <img align="center" alt="David-Wp" height="30" width="40" src="https://icongr.am/devicon/apple-original.svg?size=128&color=e7dfdf"/>
 </div>
   
   ##
