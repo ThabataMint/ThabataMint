@@ -1,7 +1,26 @@
 
 
 
-### Hello guys! My name is Thábata, I work with programming and I am madly in love with the learning process
+
+![MasterHead](https://media2.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif
+)
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"  width="100%">
+<!-- <h1 align="center">Hi 👋, I'm Thábata Oliveira</h1> -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=blue&amp;size=20&amp;lines=Hey!+It's+Thábata+Oliveira!;Programming+Student...;" style="width: 100%;">
+
+
+
+<h3 align="center">I am Aspiring Developer</h3>
+<h3 align="center">Hello guys! My name is Thábata, I work with programming and I am madly in love with the learning process</h3>
+
+
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"  width="100%">
+
+
+
+
 <div align="center">
 <img align="center" alt="David-Wp" height="300" width="300" src="https://user-images.githubusercontent.com/91090975/195998123-32985b43-0afc-4fce-8d87-747b8ae4d37e.gif">
 
