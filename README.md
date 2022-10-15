@@ -73,7 +73,7 @@ Sou apaixonada pelo meu processo de aprendizagem. E estudo a cada dia para ser m
 
   <a href="https://www.linkedin.com/in/th%C3%A1bata-oliveira-103b69228/" target="_blank"></a>
    
-   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <a href= <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
                                                                                
   
