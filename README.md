@@ -1,9 +1,9 @@
 
 
 
-
 ![MasterHead](https://media2.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif
 )
+
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"  width="100%">
 <!-- <h1 align="center">Hi 👋, I'm Thábata Oliveira</h1> -->
@@ -49,7 +49,7 @@ Sou apaixonada pelo meu processo de aprendizagem. E estudo a cada dia para ser m
   
   <div style="display: inline_block"><br>
     
-   <img align="center" alt="David-Js" height="30" width="40" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=e7dfdf">
+  <img align="center" alt="David-Js" height="30" width="40" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=e7dfdf">
   <img align="center" alt="David-Js" height="30" width="40" src="https://icongr.am/devicon/c-original.svg?size=128&color=e7dfdf">
   <img align="center" alt="David-Js" height="30" width="40" src="https://icongr.am/devicon/dot-net-original-wordmark.svg?size=128&color=e7dfdf">
   <img align="center" alt="David-Js" height="30" width="40" src="https://icongr.am/devicon/gimp-original.svg?size=128&color=e7dfdf">
@@ -70,11 +70,12 @@ Sou apaixonada pelo meu processo de aprendizagem. E estudo a cada dia para ser m
   
   ##
 
-<div> 
+
  
  <a href="https://www.linkedin.com/in/th%C3%A1bata-oliveira-103b69228/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+                                                                               
   
-</div>
+
 
 
   
