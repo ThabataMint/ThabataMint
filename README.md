@@ -12,7 +12,7 @@
 
 
 
-<h3 align="center">Hello guys! I'm Thábata, I'm a software developer. I'm currently working for Plusoft company and I'm madly in love with the learning process</h3>
+<h3 align="center">Hello guys! I'm Thábata, I'm a software developer. I'm currently working for Plusoft company and I'm passionate by learning process</h3>
 
 
 
