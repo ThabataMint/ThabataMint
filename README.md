@@ -1,7 +1,7 @@
 
 
 
-### Hello there! Me chamo Thábata!
+### Hello guys! My name is Thábata, I work with programming and I am madly in love with the learning process
 <div align="center">
 <img align="center" alt="David-Wp" height="300" width="300" src="https://user-images.githubusercontent.com/91090975/195998123-32985b43-0afc-4fce-8d87-747b8ae4d37e.gif">
 
