@@ -11,7 +11,7 @@
 
 
 
-<h3 align="center">I am Developer</h3>
+<h3 align="center">Let me introduce myself</h3>
 <h3 align="center">Hello guys! My name is Thábata, I work with programming and I am madly in love with the learning process</h3>
 
 
