@@ -12,7 +12,7 @@
 
 
 <h3 align="center">Let me introduce myself</h3>
-<h3 align="center">Hello guys! My name is Thábata, I work with programming and I am madly in love with the learning process</h3>
+<h3 align="center">Hello guys! I'm Thábata, I'm a software developer. I'm currently working for Plusoft company and I'm madly in love with the learning process</h3>
 
 
 
