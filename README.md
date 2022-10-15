@@ -74,6 +74,11 @@ Sou apaixonada pelo meu processo de aprendizagem. E estudo a cada dia para ser m
   
   
  <a href="https://www.linkedin.com/in/th%C3%A1bata-oliveira-103b69228/"><img src="https://user-images.githubusercontent.com/58532023/171219303-8839f911-21bf-453f-b517-9dd6ef9a873c.png" alt="LinkedIn"/></a>
+  
+  <h3 align="left">Connect with me:</h3>
+<p align="left" >
+<a href="https://www.linkedin.com/in/th%C3%A1bata-oliveira-103b69228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Manoj Gajare" height="30" width="40" /></a>
+
 
 
 
