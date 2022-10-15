@@ -11,7 +11,7 @@
 
 
 
-<h3 align="center">Let me introduce myself</h3>
+
 <h3 align="center">Hello guys! I'm Thábata, I'm a software developer. I'm currently working for Plusoft company and I'm madly in love with the learning process</h3>
 
 
@@ -28,7 +28,9 @@
 
 Sou apaixonada pelo meu processo de aprendizagem. E estudo a cada dia para ser melhor do que ontem, ciente de que meu maior obstáculo sou eu mesma, assim como a minha maior inspiração.
 
-### Never stop studying!
+<div align="center">
+ <h2> Never stop studying!<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px></h2>
+</div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"  width="100%">
 
